@@ -1,3 +1,18 @@
+# My BioDrop Fork – Demo Showcase
+
+This is my customized fork of the [BioDrop](https://github.com/EddieHubCommunity/BioDrop) open-source project.  
+I explored the structure, layout, and component logic to understand how full-stack Next.js applications are built and styled.
+
+🔧 Backend-Free Mode:  
+To simplify the demo, I've removed the MongoDB backend and replaced dynamic data with placeholders where needed (locally).  
+This allowed me to focus on understanding frontend structure, routing, and component interactions.
+
+📌 Why this fork:  
+- Used this repo as a learning base for frontend systems in React + Next.js  
+- Studied Tailwind, component organization, and layout responsiveness  
+- Documented insights and experiments in a separate branch (`demo-static-version`)
+
+
 > [!IMPORTANT]
 > From **10 June 2024** BioDrop will be archived. What does this mean?
 > 

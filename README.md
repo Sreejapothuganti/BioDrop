@@ -1,3 +1,8 @@
+This is my customized fork of the BioDrop open source project.
+Adapted for demo purposes without backend setup.  
+Aimed at showcasing my understanding of full-stack apps.  
+
+
 > [!IMPORTANT]
 > From **10 June 2024** BioDrop will be archived. What does this mean?
 > 
